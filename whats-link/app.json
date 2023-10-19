@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "whats-link",
+    "slug": "snack-3f9a9b8c-cf98-4c8a-9552-e3aafff60b1e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pedrotosta.snack3f9a9b8ccf984c8a9552e3aafff60b1e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b4658bb4-3bf6-444a-982a-77f793a0b74f"
+      }
+    }
+  }
+}
