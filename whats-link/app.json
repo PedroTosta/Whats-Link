@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "WhatsLink",
+    "slug": "snack-c610224c-5dd1-46e1-b79d-c61376be4cfe",
+    "version": "2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00C445"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pedrotosta.snackc610224c5dd146e1b79dc61376be4cfe"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d6e56023-67c8-4a74-89eb-39afbc116eb7"
+      }
+    }
+  }
+}
